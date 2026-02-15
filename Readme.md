@@ -1,27 +1,28 @@
 # 🍽️ Restaurant Landing Page
 
-Responsive and modern **Restaurant Landing Page** built with **HTML, CSS & JavaScript**.  
-This project is part of a frontend mini-project to practice UI design and layout skills.
+A responsive and modern **Restaurant Landing Page** built using **HTML, CSS, and JavaScript**.  
+This frontend mini project focuses on clean UI design and layout skills.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo (Vercel)
 
-➡️ *Add your live preview link here (if deployed on GitHub Pages or Netlify)*
+🔗 **View Website:**  
+https://restarent-landing-project.vercel.app/
 
 ---
 
-## 🧠 Overview
+## 🧠 Project Overview
 
-This is a restaurant landing page featuring:
+This project includes:
 
-✔ A clean and attractive UI  
+✔ Clean and attractive UI  
 ✔ Navigation bar (Home • Menu • About • Location • Contact)  
 ✔ Hero section with call-to-action  
 ✔ Food images showcase  
-✔ Interactive responsive layout
+✔ Responsive layout  
 
-It’s perfect for learning frontend basics like layout, positioning, and responsive design. :contentReference[oaicite:0]{index=0}
+This project is ideal for beginners learning frontend web development.
 
 ---
 
@@ -29,10 +30,9 @@ It’s perfect for learning frontend basics like layout, positioning, and respon
 
 | Technology | Purpose |
 |------------|---------|
-| HTML       | Markup & structure |
+| HTML       | Structure |
 | CSS        | Styling & layout |
-| JavaScript | Interaction (if used) |
+| JavaScript | Interactivity |
 
 ---
 
-## 📁 Project Structure
